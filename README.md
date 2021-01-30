@@ -3,12 +3,8 @@
 ## Fullstack Developer en Angular 4+ ,Ionic, React, React Native, NodeJS, Java 7,8,11.
 - 🔭 Actualmente me desempeño como arquitecto de software en Telefonica del peru
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias, actualmente me encuentro estudiando Golang. 
-- 👯 Me encanta participar en proyecto retadores de innovacion y transformación digital
+- 👯 Me encanta participar en proyectos retadores de innovacion y transformación digital
 - ⚡ Mis principales Hobbies: Bicicleta, viajar, nadar
-
-### Encuentrenme en:
-
-[<img align="left" alt="leonmatias2017 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
