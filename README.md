@@ -7,12 +7,7 @@
 - ⚡ My main hobbies: Biking, traveling, swimming.
 
 <br />
-<a href="https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view">
-  <img align="left" alt="HTML5" width="140px" src="http://clac-comerciojusto.org/wp-content/uploads/2019/04/download-pdf-button-1.png" /> 
-</a> -> Resume
 
-
-<br />
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,5 +34,10 @@
 
 <br />
 <br />
+<a href="https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view">
+  <img align="left" alt="HTML5" width="140px" src="http://clac-comerciojusto.org/wp-content/uploads/2019/04/download-pdf-button-1.png" /> 
+</a> -> Resume
+
+
 
 ![Leon's github stats](https://github-readme-stats.vercel.app/api?username=leonmatias2015&show_icons=true&theme=dracula&hide=stars,issues)
