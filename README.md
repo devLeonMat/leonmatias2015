@@ -7,8 +7,7 @@
 - ⚡ My main hobbies: Biking, traveling, swimming.
 
 <br />
-- 📝 [Resume](https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view)
-
+- 📝 [Download-resumen](https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view) - CV
 
 ### Languages and Tools:
 
