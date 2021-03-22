@@ -7,7 +7,10 @@
 - ⚡ My main hobbies: Biking, traveling, swimming.
 
 <br />
-- 📝 [Download-resumen](https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view) - CV
+- Resume - <a href="https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view">
+  <img align="left" alt="HTML5" width="80px" src="http://clac-comerciojusto.org/wp-content/uploads/2019/04/download-pdf-button-1.png" /> 
+</a>
+
 
 ### Languages and Tools:
 
