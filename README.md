@@ -7,9 +7,9 @@
 - ⚡ My main hobbies: Biking, traveling, swimming.
 
 <br />
-- Resume - <a href="https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view">
-  <img align="left" alt="HTML5" width="80px" src="http://clac-comerciojusto.org/wp-content/uploads/2019/04/download-pdf-button-1.png" /> 
-</a>
+<a href="https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view">
+  <img align="left" alt="HTML5" width="140px" src="http://clac-comerciojusto.org/wp-content/uploads/2019/04/download-pdf-button-1.png" /> 
+</a> Resume
 
 
 ### Languages and Tools:
