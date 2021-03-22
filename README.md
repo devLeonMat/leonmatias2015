@@ -1,17 +1,14 @@
-### Hola, Soy Leon Matias 👋
+### Hi, I'm Leon Matias 👋
 
-## Fullstack Developer en Angular 4+ ,Ionic, React, React Native, NodeJS, Java 7,8,11.
-- 🔭 Actualmente me desempeño como arquitecto de software en Telefonica del peru
-- 🌱 Constantemente estoy aprendiendo nuevas tecnologias, actualmente me encuentro estudiando Golang. 
-- 👯 Me encanta participar en proyectos retadores de innovacion y transformación digital
-- ⚡ Mis principales Hobbies: Bicicleta, viajar, nadar
+## Fullstack Developer in Angular 4+ ,Ionic, React, React Native, NodeJS, Java 7,8,11.
+- 🔭 I'm currently working as a software architect at Telefonica del peru.
+- 🌱 I'm constantly learning new technologies, currently I am studying Golang.. 
+- 👯 I love to participate in challenging innovation and digital transformation projects.
+- ⚡ My main hobbies: Biking, traveling, swimming.
 
 <br />
 
-### Lenguajes y Herramientas:
-
-
-<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/512px-IntelliJ_IDEA_Logo.svg.png" />
+### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
