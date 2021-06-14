@@ -1,7 +1,7 @@
 ### Hi, I'm Leon Matias 👋
 
 ## Fullstack Developer in Angular 4+ ,Ionic, React, React Native, NodeJS, Java 7,8,11.
-- 🔭 I'm currently working as a software architect at Telefonica del peru.
+- 🔭 I'm currently working as a Full stack enginner
 - 🌱 I'm constantly learning new technologies, currently I am studying Golang.. 
 - 👯 I love to participate in challenging innovation and digital transformation projects.
 - ⚡ My main hobbies: Biking, traveling, swimming.
