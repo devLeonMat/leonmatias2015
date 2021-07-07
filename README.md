@@ -6,6 +6,10 @@
 - 👯 I love to participate in challenging innovation and digital transformation projects.
 - ⚡ My main hobbies: Biking, traveling, swimming.
 
+<a href="https://drive.google.com/file/d/1sbre3O43vC4C8O2pGqqDupIX7w1GIEOT/view">
+  DOWNLOAD RESUME 
+</a>
+
 <br />
 
 ### Languages and Tools:
@@ -30,13 +34,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Gitkraken" width="26px" src="https://user-images.githubusercontent.com/2437911/62945705-2e111300-bdd7-11e9-8f82-cffa978d1071.png" />
-
-
-<br />
-<br />
-<a href="https://drive.google.com/file/d/1bOkBOL-p17iiDnEgCDDDfwPItiYvtgtn/view">
-  <img align="left" alt="HTML5" width="140px" src="http://clac-comerciojusto.org/wp-content/uploads/2019/04/download-pdf-button-1.png" /> 
-</a> -> Resume
 
 
 
